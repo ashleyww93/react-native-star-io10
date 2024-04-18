@@ -1,6 +1,6 @@
 {
   "name": "react-native-star-io10",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "description": "react-native-star-io10 is a library for supporting application development for Star Micronics devices.",
   "main": "index.ts",
   "types": "index.d.ts",
@@ -21,8 +21,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/star-micronics/react-native-star-io10.git",
-    "baseUrl": "https://github.com/star-micronics/react-native-star-io10"
+    "url": "git+https://github.com/ashleyww93/react-native-star-io10.git",
+    "baseUrl": "https://github.com/ashleyww93/react-native-star-io10"
   },
   "keywords": [
     "typescript",
