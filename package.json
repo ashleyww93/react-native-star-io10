@@ -54,6 +54,6 @@
     "react-native-windows": "0.73.4"
   },
   "dependencies": {
-    "@expo/config-plugins": "^7.8.0"
+    "@expo/config-plugins": "^8.0.0"
   }
 }
